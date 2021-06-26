@@ -13,14 +13,19 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf773a6d-3c37-4df9-9dcd-e70a256e4419" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,30 +91,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="805" y="392" key="Github.ShareDialog" timestamp="1624693280219">
+    <state x="805" y="392" key="Github.ShareDialog" timestamp="1624693515277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="805" y="392" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624693280219" />
+    <state x="805" y="392" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624693515277" />
     <state x="649" y="145" key="Github.UntrackedFilesDialog" timestamp="1624692629332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="649" y="145" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624692629332" />
-    <state width="1863" height="418" key="GridCell.Tab.0.bottom" timestamp="1624693319258">
+    <state width="1863" height="418" key="GridCell.Tab.0.bottom" timestamp="1624693830192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1863" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624693319258" />
-    <state width="1863" height="418" key="GridCell.Tab.0.center" timestamp="1624693319258">
+    <state width="1863" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624693830192" />
+    <state width="1863" height="418" key="GridCell.Tab.0.center" timestamp="1624693830192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1863" height="418" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624693319258" />
-    <state width="1863" height="418" key="GridCell.Tab.0.left" timestamp="1624693319258">
+    <state width="1863" height="418" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624693830192" />
+    <state width="1863" height="418" key="GridCell.Tab.0.left" timestamp="1624693830192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1863" height="418" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624693319258" />
-    <state width="1863" height="418" key="GridCell.Tab.0.right" timestamp="1624693319258">
+    <state width="1863" height="418" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624693830192" />
+    <state width="1863" height="418" key="GridCell.Tab.0.right" timestamp="1624693830192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1863" height="418" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624693319258" />
+    <state width="1863" height="418" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624693830192" />
     <state x="336" y="77" key="SettingsEditor" timestamp="1624693138384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
